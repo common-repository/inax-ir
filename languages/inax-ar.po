@@ -1,0 +1,604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inax v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-03-20 23:41+0330\n"
+"Last-Translator: simanet <info@sng.co.ir>\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ inax
+#. translators: plugin header field 'Name'
+#: inax.php:0
+msgid "inax"
+msgstr "افزونه خرید شارژ و پرداخت قبض آینکس"
+
+# @ inax-ir
+#. translators: plugin header field 'Name'
+#: inax.php:0
+msgid "inax-ir"
+msgstr "افزونه خرید شارژ و پرداخت قبض آینکس"
+
+# @ inax
+#. translators: plugin header field 'AuthorURI'
+#: inax.php:0
+msgid "http://inax.ir/"
+msgstr "http://inax.ir/"
+
+# : wp-includes/admin-bar.php:975 wp-admin/includes/ajax-actions.php:470
+# : wp-admin/includes/ajax-actions.php:541
+# : wp-admin/includes/ajax-actions.php:1396 wp-admin/includes/dashboard.php:337
+# : wp-admin/menu.php:94
+# msgid "%s Comment in moderation"
+# msgid_plural "%s Comments in moderation"
+# msgstr[0] "%s دیدگاه در حالت رسیدگی"
+# msgstr[1] "%s دیدگاه در حالت رسیدگی"
+# : wp-includes/admin-bar.php:244
+# msgid "Howdy, %s"
+# msgstr "سلام %s"
+# : pin.tpl:21
+# msgid "select %s number"
+# msgstr "انتخاب %s عدد"
+#. translators: %s: Number of comments.
+#. translators: %s: Current user's display name.
+#: pin.php:22
+msgid "خرید شارژ پین"
+msgstr "شراء رقم التعريف الشخصي"
+
+#: pin.tpl:10 trans.php:24
+msgid "لیست تراکنش ها"
+msgstr "قائمة المعاملات"
+
+#: pin.tpl:11 main.tpl:21
+msgid "صفحه اصلی فروشگاه"
+msgstr "الصفحة الرئيسية للمتجر"
+
+#: main.tpl:21
+msgid "به فروشگاه خرید شارژ و بسته اینترنت خوش آمدید"
+msgstr "مرحبًا بكم في متجر الشحن وباقة الإنترنت"
+
+#: pin.tpl:21
+msgid "شارژ پین ایرانسل"
+msgstr "رسوم رقم التعريف الشخصي لإيرانسيل"
+
+#: pin.tpl:21
+msgid "شارژ پین همراه اول"
+msgstr "Hamrahe Aval Pin charge"
+
+#: pin.tpl:21
+msgid "شارژ پین رایتل"
+msgstr "رايتل دبوس تهمة"
+
+#: pin.tpl:21
+msgid "لطفا اپراتور تلفن همراه خود را انتخاب نمائید"
+msgstr "الرجاء تحديد المشغل الخاص بك"
+
+#: pin.tpl:21
+msgid "لطفا از بخش زیر شماره تلفن و مبلغ شارژ را وارد نمائید"
+msgstr "الرجاء إدخال رقم الهاتف ومبلغ الشحن من القسم أدناه"
+
+#: pin.tpl:21
+msgid "ایرانسل"
+msgstr "إيرانسل"
+
+#: pin.tpl:21
+msgid "همراه اول"
+msgstr "همراه اول"
+
+#: pin.tpl:21
+msgid "رایتل"
+msgstr "رایتل"
+
+#: pin.tpl:21
+msgid "بازگشت"
+msgstr "عودة"
+
+#: pin.tpl:21
+msgid "شماره تلفن همراه"
+msgstr "رقم الهاتف المحمول"
+
+#: pin.tpl:21
+msgid "ذخیره شماره برای استفاده های بعدی"
+msgstr "احفظ الرقم للاستخدام التالي"
+
+#: pin.tpl:21
+msgid "شارژ"
+msgstr "المسؤول"
+
+#: pin.tpl:21
+msgid "تومانی"
+msgstr "توماني"
+
+#: pin.tpl:21
+msgid "پرداخت آنلاین"
+msgstr "الدفع عبر الإنترنت"
+
+#: pin.tpl:21
+msgid "خرید از کیف پول (اعتبار %s تومان)"
+msgstr "الدفع عن طريق Wallet (الائتمان:٪ 0s تومان)"
+
+#: topup.php:1
+msgid "خرید شارژ مستقیم"
+msgstr "رسوم شراء رصيد الشحن"
+
+#: pin.tpl:21
+msgid "شارژ مستقیم ایرانسل"
+msgstr "شحن رصيد إيرانسل"
+
+#: pin.tpl:21
+msgid "شارژ مستقیم همراه اول"
+msgstr "رسوم شحن همراه اول"
+
+#: pin.tpl:21
+msgid "شارژ مستقیم رایتل"
+msgstr "رسوم شحن رایتل"
+
+#: pin.tpl:21
+msgid "شارژ مستقیم شاتل موبایل"
+msgstr "رسوم شحن هاتف شاتيل"
+
+#: topup2.tpl:1
+msgid "لطفا شماره موبایل و اپراتور تلفن همراه خود را انتخاب نمائید"
+msgstr "الرجاء تحديد رقم هاتفك المحمول ومشغل الهاتف المحمول"
+
+#: topup2.tpl:1
+msgid "ادامه"
+msgstr "متابعة"
+
+#: topup.php:1
+msgid "در اپراتور شاتل موبایل 9 درصد مالیات بر ارزش افزوده بر روی مبلغ تراکنش اضافه شده و سیم کارت به اندازه مبلغ اسمی شارژ می شود"
+msgstr "في مشغل خدمة النقل المتنقلة ، يتم إضافة ضريبة القيمة المضافة بنسبة 9٪ على مبلغ المعاملة ويتم تحصيل رسوم بطاقة SIM بنفس المبلغ الاسمي"
+
+#: topup.tpl:1
+msgid "شاتل موبایل"
+msgstr "شاتيل موبايل"
+
+#: topup.tpl:1
+msgid "استفاده از شماره های ذخیره شده"
+msgstr "استخدام الأرقام المحفوظة"
+
+#: topup.tpl:1
+msgid "خرید شارژ با مبلغ دلخواه"
+msgstr "رسوم الشراء بالمبلغ المطلوب"
+
+#: topup.tpl:1
+msgid "مبلغ شارژ"
+msgstr "مبلغ الشحن"
+
+#: topup.tpl:1
+msgid "تومان"
+msgstr "تومان"
+
+#: topup.tpl:1
+msgid "در صورتی که شماره فوق به %s ترابرد شده است این گزینه را فعال نمائید."
+msgstr "إذا تم نقل الرقم أعلاه إلى٪ s ، فقم بتمكين هذا الخيار."
+
+#: topup.tpl:1
+msgid "شارژ معمولی"
+msgstr "الشحن العادي"
+
+#: topup.tpl:1
+msgid "شارژ شگفت انگیز"
+msgstr "شحن مذهل"
+
+#: topup.tpl:1
+msgid "شارژ شور انگیز"
+msgstr "رسوم باهظة"
+
+#: topup.tpl:1
+msgid "شارژ سیم کارت ترابرد شده"
+msgstr "رسوم MNP"
+
+#: topup.tpl:1
+msgid "شارژ سیم کارت دایمی"
+msgstr "الشحن الدائم لبطاقة"
+
+#: topup.tpl:1
+msgid "- - - - انتخاب نوع شارژ - - - -"
+msgstr "- - - - اختر نوع الشحن - - - -"
+
+#: internet.tpl:1
+msgid "خرید بسته اینترنت"
+msgstr "شراء حزمة إنترنت"
+
+#: internet.tpl:21
+msgid "بسته اینترنت ایرانسل"
+msgstr "حزمة إنترنت إيران سل"
+
+#: internet.tpl:21
+msgid "بسته اینترنت همراه اول"
+msgstr "حزمة إنترنت همراه اول"
+
+#: internet.tpl:21
+msgid "بسته اینترنت رایتل"
+msgstr "حزمة إنترنت رایتل"
+
+#: internet.tpl:21
+msgid "بسته اینترنت شاتل موبایل"
+msgstr "حزمة الإنترنت عبر الهاتف المحمول شاتل"
+
+#: internet.tpl:21
+msgid "لطفا نوع سیم کارت تلفن همراهی که قصد خرید بسته اینترنت برای آن را دارید انتخاب نمائید:"
+msgstr "الرجاء تحديد نوع بطاقة سیم الخاصة بالهاتف المحمول التي تنوي شراء باقة الإنترنت من أجلها:"
+
+#: internet.tpl:21
+msgid "سیم کارت اعتباری"
+msgstr "بطاقة سیم الائتمانية"
+
+#: internet.tpl:21
+msgid "سیم کارت دائمی"
+msgstr "بطاقة سیم الدائمة"
+
+#: internet.tpl:21 trans.tpl:1
+msgid "سیم کارت TD-LTE اعتباری"
+msgstr "TD-LTE بطاقة سیم الائتمانية"
+
+#: internet.tpl:21 trans.tpl:1
+msgid "سیم کارت TD-LTE دائمی"
+msgstr "TD-LTE بطاقة سیم دائمة"
+
+#: internet.tpl:21 trans.tpl:1
+msgid "سیم کارت دیتا"
+msgstr "Data شريحة جوال"
+
+#: internet.tpl:21
+msgid "لطفا در فیلد زیر شماره تلفنی که قصد دارید بسته اینترنتی را برای آن خریداری نمائید را وارد کنید:"
+msgstr "الرجاء إدخال الحقل الموجود أسفل رقم الهاتف الذي تنوي شراء باقة الإنترنت من أجله:"
+
+#: internet.tpl:1
+msgid "خرید بسته"
+msgstr "شراء الحزمة"
+
+#: internet.tpl:1
+msgid "مبلغ بسته"
+msgstr "كمية العبوة"
+
+#: internet.tpl:1
+msgid "سیم کارت"
+msgstr "شريحة جوال"
+
+#: internet.tpl:1
+msgid "بسته ای یافت نشد"
+msgstr "لم يتم العثور على الحزمة"
+
+#: internet.tpl:1
+msgid "لطفا نوع بسته اینترنت را انتخاب نمائید"
+msgstr "الرجاء تحديد نوع حزمة الإنترنت"
+
+#: internet_2.tpl:1
+msgid "لطفا شماره موبایل، اپراتور و نوع سیم کارت تلفن همراه خود را انتخاب نمائید"
+msgstr "يرجى تحديد رقم الهاتف والمشغل ونوع بطاقة سیم کارت"
+
+#: internet.tpl:1
+msgid "بسته"
+msgstr "طَرد"
+
+#: internet.tpl:1
+msgid "ردیف"
+msgstr "صف"
+
+#: internet.tpl:1
+msgid "نام بسته"
+msgstr "اسم الحزمة"
+
+#: internet.tpl:1
+msgid "قیمت"
+msgstr "السعر"
+
+#: internet.tpl:1
+msgid "دکمه خرید"
+msgstr "زر الشراء"
+
+#: internet.tpl:1
+msgid "یکروزه"
+msgstr "يوم واحد"
+
+#: internet.tpl:1
+msgid "روزه"
+msgstr "أيام"
+
+#: internet.tpl:1
+msgid "گیگابایت"
+msgstr "GB"
+
+#: internet.tpl:1
+msgid "گیگ"
+msgstr "GB"
+
+#: internet.tpl:1
+msgid "مگابایت"
+msgstr "MB"
+
+#: internet.tpl:1
+msgid "روزانه"
+msgstr "يوميًا"
+
+#: internet.tpl:1
+msgid "صبح"
+msgstr "الصباح"
+
+#: internet.tpl:1
+msgid "ظهر"
+msgstr "الظهر"
+
+#: bill.tpl:1 inquiry_bill.tpl:1 trans.tpl:1
+msgid "پرداخت قبض"
+msgstr "دفع فاتورة"
+
+#: bill.tpl:1
+msgid "توسط این بخش می توانید نسبت به پرداخت قبوض آب، برق، گاز، تلفن همراه، تلفن ثابت ثابت، عوارض شهرداری، سازمان مالیات و جریمه راهنمایی و رانندگی اقدام کنید.."
+msgstr "من خلال هذا القسم يمكنك دفع فواتير المياه والكهرباء والغاز والهاتف المحمول والخطوط الأرضية والضرائب البلدية وتنظيم الضرائب والغرامات المرورية ..."
+
+#: bill.tpl:1
+msgid "شناسه قبض"
+msgstr "معرف الفواتير"
+
+#: bill.tpl:1
+msgid "شناسه پرداخت"
+msgstr "معرف الدفع"
+
+#: bill.tpl:1
+msgid "شماره موبایل"
+msgstr "الجوال"
+
+#: bill.tpl:1
+msgid "(جهت پشتیبانی در صورت بروز مشکل)"
+msgstr "(للحصول على الدعم في حالة حدوث مشاكل)"
+
+#: bill.tpl:1
+msgid "بررسی اطلاعات"
+msgstr "فاتورة الحساب"
+
+#: bill.tpl:1 trans.tpl:1
+msgid "نوع قبض"
+msgstr "نوع الفاتورة"
+
+#: bill.tpl:1
+msgid "مبلغ"
+msgstr "المبلغ"
+
+#: bill.tpl:1
+msgid "خطا"
+msgstr "خطأ"
+
+#: bill.tpl:1
+msgid "بستن"
+msgstr "إغلاق"
+
+#: bill.tpl:1
+msgid "ریال"
+msgstr "ريال"
+
+#: bill.tpl:1
+msgid "در حال بررسی اطلاعات ..."
+msgstr "جاري التحقق من المعلومات ..."
+
+#: bill.tpl:1 trans.tpl:1
+msgid "نحوه پرداخت"
+msgstr "طريقة الدفع"
+
+#: bill.tpl:1
+msgid "پرداخت"
+msgstr "الدفع"
+
+#: inquiry_bill.tpl:1
+msgid "استعلام بدهی قبوض"
+msgstr "استعلام عن دين الفواتير"
+
+#: inquiry_bill.tpl:1
+msgid "شناسه قبض (موجود بر روی قبض)"
+msgstr "معرّف الفوترة"
+
+#: inquiry_bill.tpl:1
+msgid "کد اشتراک (موجود بر روی قبض)"
+msgstr "رمز الاشتراك"
+
+#: inquiry_bill.tpl:1
+msgid "شماره تلفن به همراه کد شهر"
+msgstr "رقم الهاتف"
+
+#: inquiry_bill.tpl:1
+msgid "توسط این بخش می توانید بدهی کلیه قبوض خدماتی را استعلام نمائید"
+msgstr "يمكنك من خلال هذا القسم الاستعلام عن ديون جميع فواتير الخدمة"
+
+#: inquiry_bill.tpl:1
+msgid "... انتخاب کنيد ..."
+msgstr "... يختار ..."
+
+#: inquiry_bill.tpl:1
+msgid "قبض موبایل (سیم کارت دایمی)"
+msgstr "فاتورة الهاتف المحمول (بطاقة سیم الدائمة)"
+
+#: inquiry_bill.tpl:1
+msgid "قبض برق"
+msgstr "فاتورة الكهرباء"
+
+#: inquiry_bill.tpl:1
+msgid "قبض گاز"
+msgstr "فاتورة الغاز"
+
+#: inquiry_bill.tpl:1
+msgid "قبض آب"
+msgstr "فاتورة المياه"
+
+#: inquiry_bill.tpl:1
+msgid "قبض تلفن ثابت"
+msgstr "فاتورة الهاتف"
+
+#: inquiry_bill.tpl:1 trans.tpl:1
+msgid "اپراتور"
+msgstr "عامل التشغيل"
+
+#: inquiry_bill.tpl:1
+msgid "دوره زمانی"
+msgstr "فترة"
+
+#: inquiry_bill.tpl:1
+msgid "میان دوره"
+msgstr "منتصف المدة"
+
+#: inquiry_bill.tpl:1
+msgid "پایان دوره"
+msgstr "نهاية الجلسة"
+
+#: inquiry_bill.tpl:1
+msgid "قبض"
+msgstr "بيل"
+
+#: inquiry_bill.tpl:1
+msgid "میزان بدهی قبض"
+msgstr "المبلغ المستحق على الفاتورة"
+
+#: inquiry_bill.tpl:1
+msgid "فاقد بدهی"
+msgstr "لا ديون"
+
+#: trans.tpl:1
+msgid "خرید با موفقیت انجام شد"
+msgstr "تم الشراء بنجاح"
+
+#: trans.tpl:1
+msgid "شماره پیگیری درگاه"
+msgstr "رقم تتبع البوابة"
+
+#: trans.tpl:1
+msgid "شماره پیگیری خرید"
+msgstr "شراء رقم التتبع"
+
+#: trans.tpl:1
+msgid "جزئیات شارژ"
+msgstr "تفاصيل الشحن"
+
+#: trans.tpl:1
+msgid "وضعیت تراکنش پرداخت نشده است"
+msgstr "حالة المعاملة غير مدفوعة"
+
+#: trans.tpl:1
+msgid "آیدی"
+msgstr "معرف"
+
+#: trans.tpl:1
+msgid "محصول"
+msgstr "المنتج"
+
+#: trans.tpl:1
+msgid "موبایل"
+msgstr "الجوال"
+
+#: trans.tpl:1
+msgid "مبلغ (تومان)"
+msgstr "كمية (تومان)"
+
+#: trans.tpl:1
+msgid "رسید فراهم کننده"
+msgstr "عدد تتبع"
+
+#: trans.tpl:1
+msgid "تاریخ"
+msgstr "التاريخ"
+
+#: trans.tpl:1
+msgid "وضعیت پرداخت"
+msgstr "حالة الدفع"
+
+#: trans.tpl:1
+msgid "وضعیت تراکنش"
+msgstr "حالة المعاملة"
+
+#: trans.tpl:1
+msgid "جزئیات تراکنش"
+msgstr "تفاصيل المعاملة"
+
+#: trans.tpl:1
+msgid "شارژ مستقیم"
+msgstr "اشحن رصيدك"
+
+#: trans.tpl:1
+msgid "شارژ پین"
+msgstr "دبوس"
+
+#: trans.tpl:1
+msgid "بسته اینترنت"
+msgstr "الإنترنت"
+
+#: trans.tpl:1
+msgid "آنلاین"
+msgstr "متصل"
+
+#: trans.tpl:1
+msgid "اعتبار"
+msgstr "رصيد"
+
+#: trans.tpl:1
+msgid "پرداخت شده"
+msgstr "مدفوعة"
+
+#: trans.tpl:1
+msgid "پرداخت نشده"
+msgstr "غير مدفوعة"
+
+#: trans.tpl:1
+msgid "موفق"
+msgstr "ناجح"
+
+#: trans.tpl:1
+msgid "معلق"
+msgstr "معلق"
+
+#: trans.tpl:1
+msgid "جزئیات"
+msgstr "التفاصيل"
+
+#: trans.tpl:1
+msgid "سیم کارت ترابرد شده است"
+msgstr "تم نقل بطاقة سیم"
+
+#: trans.tpl:1
+msgid "ترابرد پذیری"
+msgstr "قابلية النقل"
+
+#: trans.tpl:1
+msgid "نوع اینترنت"
+msgstr "نوع الإنترنت"
+
+#: trans.tpl:1
+msgid "نوع سیم کارت"
+msgstr "نوع بطاقة سیم کارت"
+
+#: trans.tpl:1
+msgid "اعتباری"
+msgstr "رصيد"
+
+#: trans.tpl:1
+msgid "دایمی"
+msgstr "دائم"
+
+#: trans.tpl:1
+msgid "پرداخت از اعتبار نمایندگی"
+msgstr "الدفع عن طريق ائتمان الموزع"
+
+#: trans.tpl:1
+msgid "آیدی محصول"
+msgstr "معرف المنتج"
+
+#: trans.tpl:1
+msgid "نام محصول"
+msgstr "اسم المنتج"
+
+#: trans.tpl:1
+msgid "شماره سفارش"
+msgstr "معرف الطلب"
+
+#: trans.tpl:1
+msgid "تراکنشی یافت نشد"
+msgstr "لم يتم العثور على معاملة"

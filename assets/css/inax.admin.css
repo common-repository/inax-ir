@@ -1,0 +1,118 @@
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IranianSans.eot');
+    src: url('../fonts/IranianSans.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/IranianSans.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/IranianSans.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/IranianSans.ttf') format('truetype');
+}
+
+/*defined in wordpress*/
+.card{
+	max-width: unset;
+}
+
+.form-table td{
+    font-size: 11px !important;
+}
+
+h1,h2,h3,h4{
+	font-family: iransans !important;
+}
+.table {
+	font-size:11px;
+}
+
+.paged-link{display:inline-block;text-align:center;margin-top:20px;margin-bottom:-25px;text-align:left;padding:5px 0 5px 0;direction:ltr;cursor:pointer;}
+.paged-link a{font:normal 11px tahoma;padding:4px 8px 6px 8px;background:#e6e6e6;border:1px solid #ddd;color:#666;text-decoration:none;border-radius:5px;border:1px solid #ccc;}
+.paged-link a:hover{text-decoration:none;text-shadow:0px 0px 0px #000;}
+.paged-link-selected{display:inline-block;color:#fff;border-radius:5px;}
+.paged-link-selected a{display:inline-block;font:normal 11px tahoma;padding:5px 8px 5px 8px;background:#4c96ba;border:1px solid #ddd;color:#fff;border-radius:5px;text-decoration:none;border:1px solid #0DAEDF;}
+.paged-link-selected a:hover{text-decoration:none;text-shadow:0px 0px 0px #000;}
+.paged-link-off{display:inline-block;font:normal 11px tahoma;padding:4px 8px 6px 8px;background:#e6e6e6;border:1px solid #ddd;color:#CCC;text-decoration:none;border-radius:5px;}
+.paged-link-info{display:block;padding:2px;color:#666;line-height:30px;margin:0px 2px 2px 2px;font-size:11px;}
+.
+
+.inax_option_logo {
+  margin: 20px 0;
+  text-align: center;
+}
+.inax-badge {
+  background: url("../images/inax-80x80.png") no-repeat scroll center 24px / 80px 80px #e5e5e5 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  color: #78c8e6;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  height: 40px;
+  margin: 5px 0 0;
+  padding-top: 120px;
+  text-align: center;
+  text-rendering: optimizelegibility;
+  width: 150px;
+  left: 50px;
+  position: absolute;
+  top: 150px;
+  font-family: iransans !important;
+}
+.sng-badge {
+  background: url("../images/simanet_logo.png") no-repeat scroll center 24px / 80px 80px #e5e5e5 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  color: #78c8e6;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  height: 40px;
+  margin: 5px 0 0;
+  padding-top: 120px;
+  text-align: center;
+  text-rendering: optimizelegibility;
+  width: 150px;
+  left: 210px;
+  position: absolute;
+  top: 150px;
+  font-family: iransans !important;
+}
+.box-badge {
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  color: #1b96c4;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 5px;
+  text-align: center;
+  text-rendering: optimizelegibility;
+  width: 170px;
+  height: 170px;
+  font-family: iransans !important;
+  border: 2px solid #95d4ee;
+  text-decoration: none;
+  background-color: #e5e5e5;
+}
+.box-badge:hover{
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #D0E5FA;;
+  border: 2px solid  #A7BAE7;
+}
+.box-badge img{
+  margin-top:10px;
+  padding:10px;
+}
+.inax-welcome-top{
+  margin: 1em 0 1em 350px !important;
+}
+/*#toplevel_page_inaxir .wp-menu-name {
+  position: fixed !important;
+}*/

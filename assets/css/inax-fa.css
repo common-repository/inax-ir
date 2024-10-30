@@ -1,0 +1,49 @@
+@font-face {
+    font-family: inax_iransans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/IranianSans.eot');
+    src: url('../fonts/IranianSans.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/IranianSans.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/IranianSans.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+    url('../fonts/IranianSans.ttf') format('truetype');
+}
+
+html {
+    /*font-family: inax_iransans !important;*/
+    text-align:right;
+    direction: rtl;
+}
+
+body {
+    /*font-family: tahoma, inax_iransans !important;*/
+    font-size: 13px;
+}
+
+/*button,input,select,option, th, tr, .card-header, #modal_loading {
+	font-family: inax_iransans,tahoma !important;
+}*/
+.card-header, #modal_loading {
+	font-family: inax_iransans,tahoma !important;
+}
+
+.btn{
+	font-size: unset;
+}
+
+.inax-font{
+	font-family: inax_iransans,tahoma !important;
+}
+
+td{
+    text-align:right;
+}
+
+.row{
+    direction:rtl;
+}
+
+.text-left{
+    /*direction:ltr;*/
+    text-align: left;
+}
